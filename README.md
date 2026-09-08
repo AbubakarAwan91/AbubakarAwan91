@@ -1,5 +1,5 @@
 <!-- =========================================================
-     ABUBAKAR AWAN — GITHUB PROFILE
+     ABUBAKAR AWAN — GITHUB PROFILE README
      github.com/Abubakarawan91
 ========================================================= -->
 
@@ -33,38 +33,65 @@
 
 👨‍💻 About Me
 
-const abubakar = {
-    name: "Abubakar Awan",
-    role: "Full-Stack Web Developer",
-    experience: "3+ Years",
+<table>
+<tr>
+<td width="58%" valign="top">
 
-    specializesIn: [
-        "Modern Web Development",
-        "Full-Stack Applications",
-        "SaaS Platforms",
-        "REST APIs",
-        "AI Integration",
-        "Business Automation"
-    ],
+Building products, not just pages.
 
-    availableFor: [
-        "Freelance Projects",
-        "Full-Time Opportunities",
-        "Remote Collaboration"
-    ],
+I'm Abubakar Awan, a Full-Stack Web Developer with 3+ years of experience creating modern web products for businesses, startups and service companies.
 
-    portfolio: "https://devstic.com/"
-};
+I work across the complete product lifecycle — from responsive interfaces and backend systems to databases, APIs, AI integrations and deployment.
 
-I build modern, scalable and production-ready web applications for businesses, startups and digital products.
+My goal is to turn business ideas into reliable, scalable and production-ready digital products.
+
+</td>
+
+<td width="42%" valign="top">
+
+⚡ Quick Profile
+
+
+
+
+
+Role
+
+Full-Stack Web Developer
+
+Experience
+
+3+ Years
+
+Primary Focus
+
+Web Development
+
+Also Building
+
+SaaS, AI & Automation
+
+Freelance
+
+✅ Available
+
+Full-Time
+
+✅ Open
+
+Remote
+
+✅ Available
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-UI → FRONTEND → BACKEND → DATABASE → APIs → AI → DEPLOYMENT
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=2200&amp;pause=800&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;lines=Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+APIs+%E2%86%92+Deployment;Building+for+Performance+%E2%80%A2+Scalability+%E2%80%A2+Real+Business+Use" alt="Development Focus" />
 
 </div>
-
-I don't just build websites — I build complete digital products designed to solve real business problems.
 
 ⚡ Professional Snapshot
 
@@ -230,57 +257,143 @@ CMS & E-Commerce
 
 </div>
 
-🌟 Featured Projects
+💼 Portfolio — Featured Work
 
-🌐 DevStic
+<div align="center">
+
+Selected production work across business websites, SaaS platforms and service applications.
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+🌐 01 — DevStic
 
 Role: Web Developer
 
-Modern web development and technology platform focused on building digital products for businesses and startups.
+Digital development platform focused on modern websites, SaaS products, AI integrations, automation and business software.
 
-Web Development SaaS AI Integration Automation Business Software
+Highlights
 
+Web Development SaaS AI Automation
 
+<br/>
 
-⚙️ MANCAD
+<a href="https://devstic.com/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
+</a>
 
-Role: Full-Stack Developer
+</td>
 
-Professional engineering and CAD business platform developed to showcase services, capabilities and engineering projects.
+<td width="50%" valign="top">
 
-Business Website Engineering Services Portfolio Lead Generation
-
-
-
-🛠️ Engineered By Talha
-
-Role: Full-Stack Developer
-
-Engineering consultancy and professional portfolio platform showcasing technical services, expertise and project case studies.
-
-Portfolio Services Case Studies Client Inquiry
-
-
-
-👥 PayTrack HRMS
+⚙️ 02 — MANCAD
 
 Role: Full-Stack Developer
 
-HR and payroll management platform created to centralize workforce operations.
+Professional engineering and CAD business platform showcasing services, technical capabilities, project work and client inquiry flows.
 
-Employees Attendance Shifts Payroll Payslips Admin Dashboard
+Highlights
 
+Business Website Portfolio Lead Generation
 
+<br/>
 
-🔧 Fix Your Flow
+<a href="https://mancad.com/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🛠️ 03 — Engineered By Talha
 
 Role: Full-Stack Developer
 
-Professional service-business platform with a streamlined customer service-request workflow.
+Engineering consultancy and portfolio platform presenting technical services, engineering expertise and project case studies.
 
-Services Booking Appointments Customer Information Confirmation
+Highlights
 
+Portfolio Services Case Studies
 
+<br/>
+
+<a href="https://engineeredbytalha.com/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+👥 04 — PayTrack HRMS
+
+Role: Full-Stack Developer
+
+HR and payroll management platform built to centralize workforce operations and employee administration.
+
+Highlights
+
+Employees Attendance Payroll Dashboard
+
+<br/>
+
+<a href="https://hrms.devstic.com/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_APP-238636?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🔧 05 — Fix Your Flow
+
+Role: Full-Stack Developer
+
+Service-business web platform designed around customer acquisition and a streamlined online service-request workflow.
+
+Highlights
+
+Services Booking Appointments Workflow
+
+<br/>
+
+<a href="https://fyf.devstic.com/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🚀 Let's Build the Next One
+
+Available for freelance, full-time, and remote collaboration.
+
+If you need a business website, SaaS application, API integration or AI-powered solution, let's talk.
+
+<br/>
+
+<a href="mailto:abubakar.awan.cs@gmail.com">
+<img src="https://img.shields.io/badge/START_A_PROJECT-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 💼 What I Can Do
 
@@ -352,7 +465,23 @@ Process Automation
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakarawan91&amp;theme=github-compact&amp;hide_border=true" alt="Abubakar Awan GitHub Activity Graph" />
 
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-snake.svg" />
+  <img alt="Abubakar Awan GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<sub>The snake is generated automatically from my GitHub contribution graph.</sub>
 
 </div>
 
