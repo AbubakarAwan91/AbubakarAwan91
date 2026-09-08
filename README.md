@@ -1,14 +1,34 @@
+<!-- =========================================================
+     ABUBAKAR AWAN — GITHUB PROFILE README
+     github.com/Abubakarawan91
+========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Abubakar Awan
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050B14,45:0B5ED7,100:00C6FF&text=ABUBAKAR%20AWAN&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20AI%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;3%2B+Years+of+Development+Experience;Building+Modern+Web+Applications;SaaS+%7C+APIs+%7C+AI+Integration;Turning+Ideas+Into+Real+Products" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;SaaS+%E2%80%A2+APIs+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%9A%A1;3%2B+Years+of+Development+Experience;Turning+Ideas+Into+Production-Ready+Products"
+/>
 
-<br>
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-devstic.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devstic.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abubakar_Awan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar-awan-778547365/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.awan.cs@gmail.com)
+<a href="https://devstic.com/">
+<img src="https://img.shields.io/badge/PORTFOLIO-DEVSTIC.COM-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abubakar-awan-778547365/">
+<img src="https://img.shields.io/badge/LINKEDIN-ABUBAKAR_AWAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abubakar.awan.cs@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abubakarawan91&label=PROFILE%20VIEWS&style=for-the-badge"/>
 
 </div>
 
@@ -16,80 +36,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer with 3+ years of experience** building modern websites, business applications, SaaS platforms, APIs, and AI-powered solutions.
+```javascript
+const abubakar = {
+    name: "Abubakar Awan",
+    role: "Full-Stack Web Developer",
 
-- 🌐 Specialized in **Full-Stack Web Development**
-- ⚙️ Building **real-world business applications**
-- 🤖 Working with **AI Integration & Automation**
-- 🚀 Focused on scalable and production-ready solutions
-- 💼 Available for **Freelance Projects**
-- 🧑‍💻 Open to **Full-Time Opportunities**
+    experience: "3+ Years",
 
----
+    specializesIn: [
+        "Modern Web Development",
+        "Full-Stack Applications",
+        "SaaS Platforms",
+        "REST APIs",
+        "AI Integration",
+        "Business Automation"
+    ],
 
-## ⚡ Developer Level
+    availableFor: [
+        "Freelance Projects",
+        "Full-Time Opportunities",
+        "Remote Collaboration"
+    ],
 
-<div align="center">
-
-![Experience](https://img.shields.io/badge/Experience-3%2B_Years-238636?style=for-the-badge)
-
-![Full Stack](https://img.shields.io/badge/Full--Stack-Professional-1F6FEB?style=for-the-badge)
-
-![Web Development](https://img.shields.io/badge/Web_Development-Primary_Specialty-8957E5?style=for-the-badge)
-
-![AI](https://img.shields.io/badge/AI_%26_Automation-Integration-FF8C00?style=for-the-badge)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" />
-
-<br>
-
-`REST APIs` • `OpenAI API` • `AI Integration` • `Automation` • `cPanel`
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | My Role | Description |
-|---|---|---|
-| 🌐 [**DevStic**](https://devstic.com/) | Web Developer | Web development, SaaS, AI and automation solutions |
-| ⚙️ [**MANCAD**](https://mancad.com/) | Full-Stack Developer | Professional engineering and CAD business platform |
-| 🛠️ [**Engineered by Talha**](https://engineeredbytalha.com/) | Full-Stack Developer | Engineering consultancy and project portfolio platform |
-| 👥 [**PayTrack HRMS**](https://hrms.devstic.com/) | Full-Stack Developer | HR, attendance, employee and payroll management system |
-| 🔧 [**Fix Your Flow**](https://fyf.devstic.com/) | Full-Stack Developer | Service business website with online booking workflow |
-
----
-
-## 💼 What I Can Build
-
-```text
-🌐 Business Websites        ████████████████████
-⚙️ Full-Stack Apps         ████████████████████
-📊 SaaS Platforms          ███████████████████░
-🔗 REST APIs               ███████████████████░
-🤖 AI Integration          ██████████████████░░
-⚡ Automation              ██████████████████░░
-☁️ Deployment             ███████████████████░
+    portfolio: "https://devstic.com/"
+};
