@@ -1,34 +1,33 @@
 <!-- =========================================================
-     ABUBAKAR AWAN — GITHUB PROFILE README
-     github.com/Abubakarawan91
+     ABUBAKAR AWAN — GITHUB PROFILE
+     GitHub: Abubakarawan91
 ========================================================= -->
 
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050B14,45:0B5ED7,100:00C6FF&text=ABUBAKAR%20AWAN&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20AI%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;SaaS+%E2%80%A2+APIs+%E2%80%A2+AI+%E2%80%A2+Automation+%E2%9A%A1;3%2B+Years+of+Development+Experience;Turning+Ideas+Into+Production-Ready+Products"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,45:0969DA,100:00C6FF&amp;text=ABUBAKAR%20AWAN&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20Developer%20-%20AI%20and%20Automation&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;height=60&amp;lines=Full-Stack+Web+Developer;3%2B+Years+of+Development+Experience;Building+Modern+Web+Applications;SaaS+%7C+APIs+%7C+AI+%7C+Automation;Turning+Ideas+Into+Real+Products" alt="Typing Animation" />
+
+<br/><br/>
+
 <a href="https://devstic.com/">
-<img src="https://img.shields.io/badge/PORTFOLIO-DEVSTIC.COM-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-DEVSTIC.COM-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/abubakar-awan-778547365/">
-<img src="https://img.shields.io/badge/LINKEDIN-ABUBAKAR_AWAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ABUBAKAR_AWAN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="mailto:abubakar.awan.cs@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abubakarawan91&label=PROFILE%20VIEWS&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abubakarawan91&amp;label=PROFILE%20VIEWS&amp;style=for-the-badge" />
 
 </div>
 
@@ -40,11 +39,10 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 const abubakar = {
     name: "Abubakar Awan",
     role: "Full-Stack Web Developer",
-
     experience: "3+ Years",
 
-    specializesIn: [
-        "Modern Web Development",
+    specialties: [
+        "Web Development",
         "Full-Stack Applications",
         "SaaS Platforms",
         "REST APIs",
@@ -52,11 +50,11 @@ const abubakar = {
         "Business Automation"
     ],
 
-    availableFor: [
-        "Freelance Projects",
-        "Full-Time Opportunities",
-        "Remote Collaboration"
-    ],
+    status: {
+        freelance: "Available",
+        fullTime: "Open to Opportunities",
+        remote: "Available"
+    },
 
     portfolio: "https://devstic.com/"
 };
