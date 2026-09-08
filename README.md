@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/abubakar-awan-778547365/">
-<img src="https://img.shields.io/badge/LINKEDIN-ABUBAKAR_AWAN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-ABUBAK_AWAN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="mailto:abubakar.awan.cs@gmail.com">
@@ -31,15 +31,11 @@
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-```javascript
 const abubakar = {
     name: "Abubakar Awan",
     role: "Full-Stack Web Developer",
-
     experience: "3+ Years",
 
     specializesIn: [
@@ -59,30 +55,25 @@ const abubakar = {
 
     portfolio: "https://devstic.com/"
 };
-```
 
-I build **modern, scalable and production-ready web applications** for businesses, startups and digital products.
-
-My work covers the complete development lifecycle:
+I build modern, scalable and production-ready web applications for businesses, startups and digital products.
 
 <div align="center">
 
-### `UI` → `FRONTEND` → `BACKEND` → `DATABASE` → `APIs` → `AI` → `DEPLOYMENT`
+UI → FRONTEND → BACKEND → DATABASE → APIs → AI → DEPLOYMENT
 
 </div>
 
-> **I don't just build websites — I build complete digital products designed to solve real business problems.**
+I don't just build websites — I build complete digital products designed to solve real business problems.
 
----
-
-## ⚡ Professional Snapshot
+⚡ Professional Snapshot
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-238636?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-0969DA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-8957E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_%26_AUTOMATION-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-0969DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPECIALTY-WEB_DEVELOPMENT-8957E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-AI_%26_AUTOMATION-F59E0B?style=for-the-badge" />
 
 <br/><br/>
 
@@ -92,130 +83,133 @@ My work covers the complete development lifecycle:
 
 </div>
 
----
-
-# 🚀 What I Build
+🚀 What I Build
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌐 Modern Websites
+🌐 Modern Websites
 
 Professional web experiences for:
 
-- Businesses
-- Startups
-- Agencies
-- Service Companies
-- Portfolios
-- E-Commerce
+Businesses
 
-**Focus**
+Startups
 
-`Responsive` `Modern` `Fast` `User-Friendly`
+Agencies
+
+Service Companies
+
+Portfolios
+
+E-Commerce
+
+Focus: Responsive Modern Fast User-Friendly
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Full-Stack Applications
+⚙️ Full-Stack Applications
 
 Complete applications including:
 
-- Authentication
-- User Management
-- Admin Dashboards
-- Backend Systems
-- Databases
-- REST APIs
-- Business Logic
+Authentication
 
-**Focus**
+User Management
 
-`Scalable` `Secure` `Maintainable`
+Admin Dashboards
+
+Backend Systems
+
+Databases
+
+REST APIs
+
+Business Logic
+
+Focus: Scalable Secure Maintainable
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 📊 SaaS Platforms
+📊 SaaS Platforms
 
 Business-focused platforms including:
 
-- HRMS
-- Payroll Systems
-- Business Dashboards
-- Management Systems
-- Multi-User Platforms
-- Internal Business Tools
+HRMS
 
-**Focus**
+Payroll Systems
 
-`SaaS` `Business Solutions` `Automation`
+Dashboards
+
+Management Systems
+
+Multi-User Platforms
+
+Internal Business Tools
+
+Focus: SaaS Business Solutions Automation
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation
+🤖 AI & Automation
 
 Intelligent features and automated workflows:
 
-- OpenAI API
-- AI Features
-- Smart Workflows
-- API Integrations
-- Business Automation
-- Intelligent Applications
+OpenAI API
 
-**Focus**
+AI Features
 
-`AI` `APIs` `Automation`
+Smart Workflows
+
+API Integrations
+
+Business Automation
+
+Intelligent Applications
+
+Focus: AI APIs Automation
 
 </td>
-
 </tr>
-
 </table>
 
----
-
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&amp;theme=dark" />
 
 <br/><br/>
 
-### Backend
+Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python&amp;theme=dark" />
 
 <br/><br/>
 
-### Databases
+Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark" />
 
 <br/><br/>
 
-### Tools
+Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&amp;theme=dark" />
 
 <br/><br/>
 
-### Cloud & Deployment
+Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,vercel&amp;theme=dark" />
 
@@ -228,7 +222,7 @@ Intelligent features and automated workflows:
 
 <br/><br/>
 
-### CMS & E-Commerce
+CMS & E-Commerce
 
 <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=dark" />
 &nbsp;&nbsp;
@@ -236,218 +230,107 @@ Intelligent features and automated workflows:
 
 </div>
 
----
+🌟 Featured Projects
 
-# 🌟 Featured Projects
+🌐 DevStic
 
-<table>
-
-<tr>
-
-<td width="68%" valign="top">
-
-## 🌐 DevStic
-
-**Role:** `Web Developer`
+Role: Web Developer
 
 Modern web development and technology platform focused on building digital products for businesses and startups.
 
-**Key Areas**
+Web Development SaaS AI Integration Automation Business Software
 
-`Web Development` `SaaS` `AI Integration` `Automation` `Business Software`
 
-</td>
 
-<td width="32%" align="center">
+⚙️ MANCAD
 
-### LIVE PROJECT
-
-<a href="https://devstic.com/">
-<img src="https://img.shields.io/badge/VISIT_DEVSTIC-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-**devstic.com**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="68%" valign="top">
-
-## ⚙️ MANCAD
-
-**Role:** `Full-Stack Developer`
+Role: Full-Stack Developer
 
 Professional engineering and CAD business platform developed to showcase services, capabilities and engineering projects.
 
-**Key Areas**
+Business Website Engineering Services Portfolio Lead Generation
 
-`Business Website` `Engineering Services` `Portfolio` `Lead Generation`
 
-</td>
 
-<td width="32%" align="center">
+🛠️ Engineered By Talha
 
-### LIVE PROJECT
-
-<a href="https://mancad.com/">
-<img src="https://img.shields.io/badge/VISIT_MANCAD-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-**mancad.com**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="68%" valign="top">
-
-## 🛠️ Engineered By Talha
-
-**Role:** `Full-Stack Developer`
+Role: Full-Stack Developer
 
 Engineering consultancy and professional portfolio platform showcasing technical services, expertise and project case studies.
 
-**Key Areas**
+Portfolio Services Case Studies Client Inquiry
 
-`Portfolio` `Services` `Case Studies` `Client Inquiry`
 
-</td>
 
-<td width="32%" align="center">
+👥 PayTrack HRMS
 
-### LIVE PROJECT
-
-<a href="https://engineeredbytalha.com/">
-<img src="https://img.shields.io/badge/VISIT_WEBSITE-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-**engineeredbytalha.com**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="68%" valign="top">
-
-## 👥 PayTrack HRMS
-
-**Role:** `Full-Stack Developer`
+Role: Full-Stack Developer
 
 HR and payroll management platform created to centralize workforce operations.
 
-**Core Features**
+Employees Attendance Shifts Payroll Payslips Admin Dashboard
 
-`Employees` `Attendance` `Shifts` `Payroll` `Payslips` `Admin Dashboard`
 
-</td>
 
-<td width="32%" align="center">
+🔧 Fix Your Flow
 
-### LIVE APP
-
-<a href="https://hrms.devstic.com/">
-<img src="https://img.shields.io/badge/OPEN_PAYTRACK-238636?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-**hrms.devstic.com**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="68%" valign="top">
-
-## 🔧 Fix Your Flow
-
-**Role:** `Full-Stack Developer`
+Role: Full-Stack Developer
 
 Professional service-business platform with a streamlined customer service-request workflow.
 
-**Core Features**
+Services Booking Appointments Customer Information Confirmation
 
-`Services` `Booking` `Appointments` `Customer Information` `Confirmation`
 
-</td>
 
-<td width="32%" align="center">
-
-### LIVE PROJECT
-
-<a href="https://fyf.devstic.com/">
-<img src="https://img.shields.io/badge/VISIT_PROJECT-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-**fyf.devstic.com**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 What I Can Do
+💼 What I Can Do
 
 <div align="center">
 
-| 🌐 Web Development | ⚙️ Full-Stack Development | 🤖 AI & Automation |
-| :--- | :--- | :--- |
-| Business Websites | Web Applications | OpenAI Integration |
-| Portfolio Websites | SaaS Platforms | AI Features |
-| Responsive UI | Admin Dashboards | Business Automation |
-| E-Commerce | REST APIs | Smart Workflows |
-| WordPress | Database Systems | API Integration |
-| Landing Pages | Backend Development | Process Automation |
+🌐 Web Development
+
+⚙️ Full-Stack Development
+
+🤖 AI & Automation
+
+Business Websites
+
+Web Applications
+
+OpenAI Integration
+
+Portfolio Websites
+
+SaaS Platforms
+
+AI Features
+
+Responsive UI
+
+Admin Dashboards
+
+Business Automation
+
+E-Commerce
+
+REST APIs
+
+Smart Workflows
+
+WordPress
+
+Database Systems
+
+API Integration
+
+Landing Pages
+
+Backend Development
+
+Process Automation
 
 </div>
 
----
-
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -457,65 +340,53 @@ Professional service-business platform with a streamlined customer service-reque
 
 </div>
 
----
-
-# 🔥 Development Streak
+🔥 Development Streak
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Abubakarawan91&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=00000000" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Abubakarawan91&amp;theme=github-dark-blue&amp;hide_border=true" />
 
 </div>
 
----
-
-# 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakarawan91&amp;bg_color=00000000&amp;color=58A6FF&amp;line=0969DA&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
+
 
 </div>
 
----
-
-# 🐍 Contribution Animation
+⚡ Current Focus
 
 <div align="center">
 
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-contribution-grid-snake-dark.svg" />
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-contribution-grid-snake.svg" />
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abubakarawan91/Abubakarawan91/output/github-contribution-grid-snake.svg" />
-
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2200&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;lines=Building+Production-Ready+Full-Stack+Applications;Creating+Scalable+SaaS+Platforms;Integrating+AI+Into+Real+Business+Workflows;Automating+Repetitive+Business+Processes;Shipping+Better+Products+Every+Day" alt="Current Focus Animation" />
 
 </div>
 
----
+🎯 2026 Goals
 
-# 🎯 2026 Goals
+🚀 Build more production-ready full-stack applications
 
-- 🚀 Build more production-ready full-stack applications
-- 🤖 Develop AI-powered SaaS products
-- ⚡ Create advanced business automation systems
-- 🌍 Work with more international clients
-- ☁️ Strengthen cloud deployment expertise
-- 📦 Build reusable and scalable application architectures
-- 🌱 Increase GitHub and open-source contributions
+🤖 Develop AI-powered SaaS products
 
----
+⚡ Create advanced business automation systems
 
-# 🤝 Let's Work Together
+🌍 Work with more international clients
+
+☁️ Strengthen cloud deployment expertise
+
+📦 Build reusable and scalable application architectures
+
+🌱 Increase GitHub and open-source contributions
+
+🤝 Let's Work Together
 
 <div align="center">
 
-### Have an idea? Let's turn it into a real product.
+Have an idea? Let's turn it into a real product.
 
-I build **modern websites, SaaS applications, business platforms and AI-powered solutions.**
+I build modern websites, SaaS applications, business platforms and AI-powered solutions.
 
 <br/>
 
@@ -533,11 +404,11 @@ I build **modern websites, SaaS applications, business platforms and AI-powered 
 
 <br/><br/>
 
-### 💼 Freelance Available &nbsp; • &nbsp; 🚀 Open to Full-Time &nbsp; • &nbsp; 🌍 Remote
+💼 Freelance Available   •   🚀 Open to Full-Time   •   🌍 Remote
 
 <br/>
 
-### `BUILD` • `AUTOMATE` • `SHIP` • `SCALE`
+BUILD • AUTOMATE • SHIP • SCALE
 
 <br/>
 
