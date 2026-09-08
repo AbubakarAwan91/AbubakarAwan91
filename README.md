@@ -55,15 +55,15 @@ My goal is to turn business ideas into reliable, scalable and production-ready d
 
 
 
-**Role**
+Role
 
 Full-Stack Web Developer
 
-**Experience**
+Experience
 
 3+ Years
 
-**Primary Focus**
+Primary Focus
 
 Web Development
 
@@ -71,15 +71,15 @@ Also Building
 
 SaaS, AI & Automation
 
-**Freelance**
+Freelance
 
 ✅ Available
 
-**Full-Time**
+Full-Time
 
 ✅ Open
 
-**Remote**
+Remote
 
 ✅ Available
 
@@ -465,9 +465,14 @@ Process Automation
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakarawan91&amp;theme=github-compact&amp;hide_border=true" alt="Abubakar Awan GitHub Activity Graph" />
+<img
+  src="https://ghchart.rshah.org/0969DA/Abubakarawan91"
+  alt="Abubakar Awan GitHub Contribution Chart"
+/>
 
 </div>
+
+---
 
 🐍 Contribution Snake
 
