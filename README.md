@@ -443,15 +443,31 @@ Process Automation
 
 </div>
 
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abubakarawan91&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;rank_icon=github" />
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abubakarawan91&theme=github_dark"
+alt="Abubakar Awan GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakarawan91&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" />
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abubakarawan91&theme=github_dark"
+alt="Abubakar Awan Top Languages" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img width="96%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakarawan91&theme=github_dark"
+alt="Abubakar Awan GitHub Profile Details" />
+
+</div>
+
+---
 
 🔥 Development Streak
 
