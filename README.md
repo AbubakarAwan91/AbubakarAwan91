@@ -41,9 +41,9 @@ Building products, not just pages.
 
 I'm Abubakar Awan, a Full-Stack Web Developer with 3+ years of experience creating modern web products for businesses, startups and service companies.
 
-I work across the complete product lifecycle — from responsive interfaces and backend systems to databases, APIs, AI integrations and deployment.
+I work across the complete product lifecycle from responsive interfaces and backend systems to databases, APIs, AI integrations and deployment.
 
-My goal is to turn business ideas into reliable, scalable and production-ready digital products.
+My goal is to turn business ideas into reliable, scalable and production ready digital products.
 
 </td>
 
